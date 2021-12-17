@@ -24,8 +24,8 @@
     <img align="center" height="70" width="80" alt="Wooo-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </div>
   <div class="display: inline-block">
-    <img align="center" height="70" width="80" alt="Wooo-Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" height="70" width="80" alt="Wooo-Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <img align="center" height="70" width="80" alt="Wooo-Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+    <img align="center" height="70" width="80" alt="Wooo-Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   </div>
   <div class="display: inline-block">
     <img align="center" height="70" width="80" alt="Wooo-MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
