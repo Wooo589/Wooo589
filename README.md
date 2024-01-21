@@ -1,7 +1,7 @@
 #  👨‍💻 Hello World, I'm Willian!
-  - Computer Science student at Centro Universitário do Distrito Federal;
+  - Computer Science student at Universidade de Brasília;
   - Always focused;
-  - 20y;
+  - 21y;
   <br>
   
 ## 🚶 Status
