@@ -1,7 +1,7 @@
 #  👨‍💻 Hello World, I'm Willian!
-  - Computer Science student at Universidade de Brasília;
+  - Software Engineering student at Universidade de Brasília;
   - Always focused;
-  - 21y;
+  - 23y;
   <br>
   
 ## 🚶 Status
